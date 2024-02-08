@@ -25,10 +25,9 @@ Madhav Store seeks assistance in developing a comprehensive dashboard to monitor
     donut chart, clusterred bar chart, scatter chart, line chart, 
     area chart, map, slicers, etc.)
 
-## Dashboard Interface Sanples
+## Dashboard Interface Sample
+
+![Screenshot (4182)](https://github.com/ShrutiChoubey-2001/Power-BI-dashboard-Project/assets/155421218/3c6c836e-2c6a-4630-8efd-f7bca5bbb15e)
 
 
-![S![Sc![Screenshot (4180)](https://github.com/ShrutiChoubey-2001/Power-BI-dashboard-Project/assets/155421218/903e362a-3b2b-43f0-8e5f-e822634e7e8f)
-reenshot (4181)](https://github.com/ShrutiChoubey-2001/Power-BI-dashboard-Project/assets/155421218/e4340829-cec7-471c-8931-5e185682a336)
-creenshot (4182)](https://github.com/ShrutiChoubey-2001/Power-BI-dashboard-Project/assets/155421218/3b64bffa-a59e-45ea-b5e5-82b87a256f3f)
 
